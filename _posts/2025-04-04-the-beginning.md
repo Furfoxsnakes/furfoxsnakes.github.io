@@ -11,7 +11,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 ### This is a header
 
 #### Some C# code
-```C#
+```csharp
 public void Foo() {
     GD.Print("Bar")
 }
